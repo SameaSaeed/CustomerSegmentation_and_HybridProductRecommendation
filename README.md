@@ -79,7 +79,6 @@ RFM_clusters
 Recommendations
 <img width="950" height="412" alt="recommendation_app" src="https://github.com/user-attachments/assets/86c475d6-b7e6-4d58-a1e8-4a68565c24ba" />
 
-------------------------------------------------------------------------
 
 ## 🔮 Future Work
 
