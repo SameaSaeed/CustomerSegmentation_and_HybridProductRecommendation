@@ -65,30 +65,23 @@ customer_segments
 RFM
 <img width="581" height="468" alt="FRM" src="https://github.com/user-attachments/assets/e4856353-3d47-4fc5-a079-88100253e93e" />
 
+RFM_by_customer
+<img width="487" height="311" alt="rfm_by_customer" src="https://github.com/user-attachments/assets/9f6a9cee-8dab-43d5-b024-147dd3610ec5" />
+
+
 RFM_clusters
 <img width="1461" height="498" alt="rfm_clusters" src="https://github.com/user-attachments/assets/1461a46e-02f3-4c06-a684-9525ff2fa93a" />
 
 <img width="221" height="232" alt="kmeans" src="https://github.com/user-attachments/assets/76c5acea-d6e5-41a4-849b-7df6cd5b83f2" />
 
+
+
 Recommendations
 <img width="721" height="491" alt="rec" src="https://github.com/user-attachments/assets/c0d31824-b4d3-4f6f-be7e-437d37ecd8bf" />
 
 
+
 <img width="950" height="473" alt="recommendation_app" src="https://github.com/user-attachments/assets/614175ff-ecd0-45ee-a33c-740df86368fa" />
-
-
-
-
-
-
-
-
-
-
-
--   Top-N recommendations per user
--   Hybrid score ranking
--   Serialized model bundle
 
 ------------------------------------------------------------------------
 
