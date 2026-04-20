@@ -72,7 +72,6 @@ RFM_by_customer
 RFM_clusters
 <img width="1461" height="498" alt="rfm_clusters" src="https://github.com/user-attachments/assets/1461a46e-02f3-4c06-a684-9525ff2fa93a" />
 
-<img width="221" height="232" alt="kmeans" src="https://github.com/user-attachments/assets/76c5acea-d6e5-41a4-849b-7df6cd5b83f2" />
 
 
 
