@@ -74,14 +74,10 @@ RFM_clusters
 
 <img width="221" height="232" alt="kmeans" src="https://github.com/user-attachments/assets/76c5acea-d6e5-41a4-849b-7df6cd5b83f2" />
 
-
+------------------------------------------------------------------------
 
 Recommendations
-<img width="721" height="491" alt="rec" src="https://github.com/user-attachments/assets/c0d31824-b4d3-4f6f-be7e-437d37ecd8bf" />
-
-
-
-<img width="950" height="473" alt="recommendation_app" src="https://github.com/user-attachments/assets/614175ff-ecd0-45ee-a33c-740df86368fa" />
+<img width="950" height="412" alt="recommendation_app" src="https://github.com/user-attachments/assets/86c475d6-b7e6-4d58-a1e8-4a68565c24ba" />
 
 ------------------------------------------------------------------------
 
